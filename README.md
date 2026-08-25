@@ -1,16 +1,43 @@
-## Hi there 👋
+☁️ 김종훈 | Cloud & DevOps Engineer
 
-<!--
-**yhy0009/yhy0009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS · Kubernetes · Terraform 기반으로
+자동화되고 관측 가능한 인프라를 구축합니다.
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+
+☁️ AWS / Kubernetes
+🏗️ Infrastructure as Code
+🚀 CI/CD & GitOps
+📊 Observability
+
+━━━━━━━━━━━━━━━━━━━━
+
+🛠 Tech Stack
+
+AWS | Kubernetes | Docker | Terraform
+ArgoCD | GitHub Actions | Helm
+Prometheus | Grafana | CloudWatch
+Python | Java | Spring Boot
+
+━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+01. MindScape
+AWS EKS 기반 MSA Infrastructure
+
+02. AI Trend Short
+AWS Serverless + Terraform
+
+03. Private Cloud Lab
+OpenStack + Proxmox + Ceph
+
+━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+━━━━━━━━━━━━━━━━━━━━
+
+📫 Portfolio / Contact
