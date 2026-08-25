@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jonghun Kim
+# 👋 Hi, I'm Jonghoon Kim
 
 ### ☁️ Cloud & DevOps Engineer
 
