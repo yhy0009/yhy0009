@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jonghoon Kim
+# 👋 Hi, I'm Jonghun Kim
 
 ### ☁️ Cloud & DevOps Engineer
 
@@ -11,7 +11,7 @@ Observability를 기반으로 **안정적이고 재현 가능한 서비스 환�
 
 * ☁️ **AWS / Kubernetes** 기반 클라우드 인프라 구축
 * 🏗️ **Terraform**을 활용한 Infrastructure as Code
-* 🚀 **GitHub Actions / ArgoCD** 기반 CI/CD 및 GitOps
+* 🚀 **GitHub Actions / Argo CD** 기반 CI/CD 및 GitOps
 * 📊 **Prometheus / Grafana / CloudWatch** 기반 모니터링
 * ⚡ **Serverless Architecture** 및 운영 자동화 경험
 * 🖥️ **OpenStack / Proxmox / Ceph** 기반 Private Cloud 구축 경험
@@ -32,9 +32,10 @@ Observability를 기반으로 **안정적이고 재현 가능한 서비스 환�
 
 <p>
   <img src="https://skillicons.dev/icons?i=githubactions,git,github" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
 </p>
 
-`GitHub Actions` `ArgoCD` `Helm` `Git`
+`GitHub Actions` `Argo CD` `Helm` `Git`
 
 ### 📊 Monitoring & Observability
 
@@ -77,14 +78,14 @@ Container & Orchestration
  └─ Kubernetes
       ├─ EKS
       ├─ Helm
-      └─ ArgoCD
+      └─ Argo CD
 
 Infrastructure as Code
  └─ Terraform
 
 CI/CD
  ├─ GitHub Actions
- └─ ArgoCD
+ └─ Argo CD
 
 Observability
  ├─ Prometheus
